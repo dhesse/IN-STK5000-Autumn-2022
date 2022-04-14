@@ -1,0 +1,65 @@
+* IN-STK 5000 - Autumn 2022
+
+This repository consists the course [[course][IN-STK 5000]], held at
+Oslo University in autumn 2022.
+
+* Contents
+
+** Lectures
+
+*** Lecture 1 - Data-based decision making
+
+ - What is data-based decision making?
+ - Why data-based decision making?
+   - Industry perspective
+     - What is digitalization?
+       - Some examples
+     - Why do we talk about digitalization now?
+   - Three vs of big data
+ - Methods for data-based deciion making
+   - Machine learning
+   - Alternatives to machine learning
+ - Limitations and challenges
+   - Privacy
+   - Fairness
+
+** Topics
+
+*** Introduction
+
+*** Tools of the trade - Python, Jupyter, Scikit-learn, Pandas, Tensorflow
+
+**** Python - Data Science's favourite programming language
+
+**** Jupyter - Notebooks
+
+**** Scikit-learn - Industry Standard Machine Learning Package
+
+**** Pandas - Industry Standard Data Analysis
+
+**** Tensorflow - Accelerated Neural Networks and Bayesian Modeling
+
+
+*** Beyond Machine Learning - Decision Making
+
+**** Confidence intervals, uncertainty
+
+**** Bayesian models
+
+**** Multi-armed bandits
+
+*** More tools: Apache Spark, Apache Airflow 
+
+**** Apache Spark - Big Data Machine Learning
+
+**** Apache Airflow - Model
+  
+
+ #+LINK: course https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html
+
+
+*** Challenges
+
+**** Privacy
+
+**** Fairness
