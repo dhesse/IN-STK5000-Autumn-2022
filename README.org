@@ -29,37 +29,28 @@ Oslo University in autumn 2022.
 
 *** Tools of the trade - Python, Jupyter, Scikit-learn, Pandas, Tensorflow
 
-**** Python - Data Science's favourite programming language
-
-**** Jupyter - Notebooks
-
-**** Scikit-learn - Industry Standard Machine Learning Package
-
-**** Pandas - Industry Standard Data Analysis
-
-**** Tensorflow - Accelerated Neural Networks and Bayesian Modeling
+- Python - Data Science's favourite programming language
+- Jupyter - Notebooks
+- Scikit-learn - Industry Standard Machine Learning Package
+- Pandas - Industry Standard Data Analysis
+- Tensorflow - Accelerated Neural Networks and Bayesian Modeling
 
 
 *** Beyond Machine Learning - Decision Making
 
-**** Confidence intervals, uncertainty
-
-**** Bayesian models
-
-**** Multi-armed bandits
+- Confidence intervals, uncertainty
+- Bayesian models
+- Multi-armed bandits
 
 *** More tools: Apache Spark, Apache Airflow 
 
-**** Apache Spark - Big Data Machine Learning
-
-**** Apache Airflow - Model
+- Apache Spark - Big Data Machine Learning
+- Apache Airflow - Model
   
-
- #+LINK: course https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html
-
-
 *** Challenges
 
-**** Privacy
+- Privacy
+- Fairness
 
-**** Fairness
+
+#+LINK: course https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html
