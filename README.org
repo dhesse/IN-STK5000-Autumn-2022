@@ -20,14 +20,19 @@ Oslo University in autumn 2022.
    - Machine learning
    - Alternatives to machine learning
  - Limitations and challenges
+   - Model interpretability/explainability
    - Privacy
    - Fairness
+   - Scarcity or abundance of data
 
 ** Topics
 
 *** Introduction
 
 *** Tools of the trade - Python, Jupyter, Scikit-learn, Pandas, Tensorflow
+
+The aim here is merely to get everyone on the same page. ~2-3
+lectures.
 
 - Python - Data Science's favourite programming language
 - Jupyter - Notebooks
@@ -40,17 +45,33 @@ Oslo University in autumn 2022.
 
 - Confidence intervals, uncertainty
 - Bayesian models
-- Multi-armed bandits
+- Reliability and reproducibility
+- Multi-armed bandits (?)
 
-*** More tools: Apache Spark, Apache Airflow 
+*** Outliers, Data Contamination, Fraud Detection
 
+- Basic definitions, what is an outlier and how to identify them
+  - In particular, what makes estimating tails of a distribution hard?
+- Reasons for the presence or absence of outliers
+- Advanced methods for outlier detection
+  - Such as clustering + outlier detection, autoencoders
+  - Benford's Law, fraud detection
+
+*** 'Big data' Tools: Apache Spark, Apache Airflow 
+
+- Why do we need specific tools for large data sets?
+  - What is a large data set?
+- How do those tools deal with large data sets?
+  - Example: Map Reduce
 - Apache Spark - Big Data Machine Learning
 - Apache Airflow - Model
   
 *** Challenges
 
+- Model interpretability/explainability
 - Privacy
 - Fairness
+- Scarcity or abundance of data
 
 
 #+LINK: course https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html
