@@ -6,7 +6,7 @@ Oslo University in autumn 2022.
 * Contents
 
 ** Literature
-Book on theory and real-life examples (includes R examples too): *Doing Data Science*, Cathy O'Neil and Rachel Schutt. (https://learning.oreilly.com/library/view/doing-data-science/9781449363871/)
+Book on lightweight theory and real-life examples (includes R examples too): *Doing Data Science*, Cathy O'Neil and Rachel Schutt. (https://learning.oreilly.com/library/view/doing-data-science/9781449363871/)
 - 1. Introduction: What Is Data Science?
 - 2. Statistical Inference, Exploratory Data Analysis, And The Data Science Process
 - 3. Algorithms
@@ -19,7 +19,7 @@ Book on theory and real-life examples (includes R examples too): *Doing Data Sci
 - 13. Lessons Learned From Data Competitions: Data Leakage And Model Evaluation
 - 16. Next-Generation Data Scientists, Hubris, And Ethics
 
-Book on theory and (many!) real-life examples: *The Ethical Algorithm*, Michael Kearns and Aaron Roth. (https://learning.oreilly.com/videos/the-ethical-algorithm/9781705237250/)
+Book on lightweight theory and (many!) real-life examples with focus on failures: *The Ethical Algorithm*, Michael Kearns and Aaron Roth. (https://learning.oreilly.com/videos/the-ethical-algorithm/9781705237250/)
 - privacy
 - fairness
 - missinterpreting and mishandling data
