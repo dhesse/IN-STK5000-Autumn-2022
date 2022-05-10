@@ -6,61 +6,38 @@ Oslo University in autumn 2022.
 * Contents
 
 ** Course Description
-**Course content**
-Classic approaches in data analysis are based on a static (or predefined) procedure for both collecting and processing data. Modern approaches deal with the adaptive procedures which in practice almost always are used.
 
-In this course you will learn how to design systems that adaptively collect and process data in order to make decisions autonomously or in collaboration with humans. The course applies core principles from machine learning, artificial intelligence, databases and parallel computing to real-world problems in safety, reproducibility, transparency, privacy and fairness.
+*** Course content
 
-**Learning outcome**
+Classic approaches in data analysis are based on a static (or
+predefined) procedure for both collecting and processing data. Modern
+approaches deal with the adaptive procedures which in practice almost
+always are used.
+
+In this course you will learn how to design systems that adaptively
+collect and process data in order to make decisions autonomously or in
+collaboration with humans. The course applies core principles from
+machine learning, artificial intelligence, databases and parallel
+computing to real-world problems in safety, reproducibility,
+transparency, privacy and fairness.
+
+*** Learning outcome
+
 After taking the course, you will:
 
-See adaptive data analysis holistically, as a general decision problem.
-Have basic knowledge of SQL
-Know how to adaptively plan data collection.
-Understand when privacy is an issue and how to deal with privacy concerns.
-Provide transparency by quantifying the strength of conclusions and ensuring reproducibility.
-Be able to provide safety and reliability guarantees.
-Have insight into issues of discrimination and fairness that can arise.
-Be able to use large-scale data processing tools such as Tensor-Flow
-Be able to deal with outliers, data contamination, etc.
-
-** Literature
-Book on lightweight theory and real-life examples (includes R examples too): *Doing Data Science*, Cathy O'Neil and Rachel Schutt. (https://learning.oreilly.com/library/view/doing-data-science/9781449363871/)
-- 1. Introduction: What Is Data Science?
-- 2. Statistical Inference, Exploratory Data Analysis, And The Data Science Process
-- 3. Algorithms
-- 4. Spam Filters, Naive Bayes, And Wrangling
-- 5. Logistic Regression
-- 7. Extracting Meaning From Data
-- 8. Recommendation Engines: Building A User-Facing Data Product At Scale
-- 9. Data Visualization And Fraud Detection
-- 11. Causality
-- 13. Lessons Learned From Data Competitions: Data Leakage And Model Evaluation
-- 16. Next-Generation Data Scientists, Hubris, And Ethics
-
-Book on lightweight theory and (many!) real-life examples with focus on failures: *The Ethical Algorithm*, Michael Kearns and Aaron Roth. (https://learning.oreilly.com/videos/the-ethical-algorithm/9781705237250/)
-- privacy
-- fairness
-- missinterpreting and mishandling data
-
-Book on use of Python libs: *Python Data Science Handbook, 2nd Edition*, Jake VanderPlas. (https://learning.oreilly.com/library/view/python-data-science/9781098121211/)
-With this handbook, you'll learn how:
-- IPython and Jupyter provide computational environments for scientists using Python
-- NumPy includes the ndarray for efficient storage and manipulation of dense data arrays
-- Pandas contains the DataFrame for efficient storage and manipulation of labeled/columnar data
-- Matplotlib includes capabilities for a flexible range of data visualizations
-- Scikit-learn helps you build efficient and clean Python implementations of the most important and established machine learning algorithms 
-
-Book on use of Python libs: *Python for Data Analysis, 2nd Edition*, Wes McKinney. (https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
-Content:
-- Use the IPython shell and Jupyter notebook for exploratory computing
-- Learn basic and advanced features in NumPy (Numerical Python)
-- Get started with data analysis tools in the pandas library
-- Use flexible tools to load, clean, transform, merge, and reshape data
-- Create informative visualizations with matplotlib
-- Apply the pandas groupby facility to slice, dice, and summarize datasets
-- Analyze and manipulate regular and irregular time series data
-- Learn how to solve real-world data analysis problems with thorough, detailed examples
+- See adaptive data analysis holistically, as a general decision
+  problem.
+- Have basic knowledge of SQL
+- Know how to adaptively plan data collection.
+- Understand when privacy is an issue and how to deal with privacy
+  concerns.
+- Provide transparency by quantifying the strength of conclusions and
+  ensuring reproducibility.
+- Be able to provide safety and reliability guarantees.
+- Have insight into issues of discrimination and fairness that can
+  arise.
+- Be able to use large-scale data processing tools such as Tensor-Flow
+- Be able to deal with outliers, data contamination, etc.
 
 ** Lectures
 
@@ -158,3 +135,42 @@ its basic properties.
 
 
 #+LINK: course https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html
+
+** Literature
+Book on lightweight theory and real-life examples (includes R examples too): *Doing Data Science*, Cathy O'Neil and Rachel Schutt. (https://learning.oreilly.com/library/view/doing-data-science/9781449363871/)
+- 1. Introduction: What Is Data Science?
+- 2. Statistical Inference, Exploratory Data Analysis, And The Data Science Process
+- 3. Algorithms
+- 4. Spam Filters, Naive Bayes, And Wrangling
+- 5. Logistic Regression
+- 7. Extracting Meaning From Data
+- 8. Recommendation Engines: Building A User-Facing Data Product At Scale
+- 9. Data Visualization And Fraud Detection
+- 11. Causality
+- 13. Lessons Learned From Data Competitions: Data Leakage And Model Evaluation
+- 16. Next-Generation Data Scientists, Hubris, And Ethics
+
+Book on lightweight theory and (many!) real-life examples with focus on failures: *The Ethical Algorithm*, Michael Kearns and Aaron Roth. (https://learning.oreilly.com/videos/the-ethical-algorithm/9781705237250/)
+- privacy
+- fairness
+- missinterpreting and mishandling data
+
+Book on use of Python libs: *Python Data Science Handbook, 2nd Edition*, Jake VanderPlas. (https://learning.oreilly.com/library/view/python-data-science/9781098121211/)
+With this handbook, you'll learn how:
+- IPython and Jupyter provide computational environments for scientists using Python
+- NumPy includes the ndarray for efficient storage and manipulation of dense data arrays
+- Pandas contains the DataFrame for efficient storage and manipulation of labeled/columnar data
+- Matplotlib includes capabilities for a flexible range of data visualizations
+- Scikit-learn helps you build efficient and clean Python implementations of the most important and established machine learning algorithms 
+
+Book on use of Python libs: *Python for Data Analysis, 2nd Edition*, Wes McKinney. (https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
+Content:
+- Use the IPython shell and Jupyter notebook for exploratory computing
+- Learn basic and advanced features in NumPy (Numerical Python)
+- Get started with data analysis tools in the pandas library
+- Use flexible tools to load, clean, transform, merge, and reshape data
+- Create informative visualizations with matplotlib
+- Apply the pandas groupby facility to slice, dice, and summarize datasets
+- Analyze and manipulate regular and irregular time series data
+- Learn how to solve real-world data analysis problems with thorough, detailed examples
+
