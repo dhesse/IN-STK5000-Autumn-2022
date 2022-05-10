@@ -5,6 +5,25 @@ Oslo University in autumn 2022.
 
 * Contents
 
+** Course Description
+**Course content**
+Classic approaches in data analysis are based on a static (or predefined) procedure for both collecting and processing data. Modern approaches deal with the adaptive procedures which in practice almost always are used.
+
+In this course you will learn how to design systems that adaptively collect and process data in order to make decisions autonomously or in collaboration with humans. The course applies core principles from machine learning, artificial intelligence, databases and parallel computing to real-world problems in safety, reproducibility, transparency, privacy and fairness.
+
+**Learning outcome**
+After taking the course, you will:
+
+See adaptive data analysis holistically, as a general decision problem.
+Have basic knowledge of SQL
+Know how to adaptively plan data collection.
+Understand when privacy is an issue and how to deal with privacy concerns.
+Provide transparency by quantifying the strength of conclusions and ensuring reproducibility.
+Be able to provide safety and reliability guarantees.
+Have insight into issues of discrimination and fairness that can arise.
+Be able to use large-scale data processing tools such as Tensor-Flow
+Be able to deal with outliers, data contamination, etc.
+
 ** Literature
 Book on lightweight theory and real-life examples (includes R examples too): *Doing Data Science*, Cathy O'Neil and Rachel Schutt. (https://learning.oreilly.com/library/view/doing-data-science/9781449363871/)
 - 1. Introduction: What Is Data Science?
