@@ -1,9 +1,8 @@
 * IN-STK 5000 - Autumn 2022
 
-This repository consists the course [[course][IN-STK 5000]], held at
-Oslo University in autumn 2022.
-
-* Contents
+This repository contains material for the course [[course][IN-STK 5000]] "Adaptive
+methods for data-based decision making", held at Oslo University in
+autumn 2022.
 
 ** Course Description
 
