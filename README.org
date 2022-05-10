@@ -6,7 +6,7 @@ Oslo University in autumn 2022.
 * Contents
 
 ** Literature
-Book on theory and real-life examples (includes R examples too): *Doing Data Science*, Cathy O'Neil and Rachel Schutt. ![o'reilly](https://learning.oreilly.com/library/view/doing-data-science/9781449363871/)
+Book on theory and real-life examples (includes R examples too): *Doing Data Science*, Cathy O'Neil and Rachel Schutt. (https://learning.oreilly.com/library/view/doing-data-science/9781449363871/)
 - 1. Introduction: What Is Data Science?
 - 2. Statistical Inference, Exploratory Data Analysis, And The Data Science Process
 - 3. Algorithms
@@ -19,7 +19,7 @@ Book on theory and real-life examples (includes R examples too): *Doing Data Sci
 - 13. Lessons Learned From Data Competitions: Data Leakage And Model Evaluation
 - 16. Next-Generation Data Scientists, Hubris, And Ethics
 
-Book on use of Python libs: *Python Data Science Handbook, 2nd Edition*, Jake VanderPlas. ![o'reilly](https://learning.oreilly.com/library/view/python-data-science/9781098121211/)
+Book on use of Python libs: *Python Data Science Handbook, 2nd Edition*, Jake VanderPlas. (https://learning.oreilly.com/library/view/python-data-science/9781098121211/)
 With this handbook, you'll learn how:
 - IPython and Jupyter provide computational environments for scientists using Python
 - NumPy includes the ndarray for efficient storage and manipulation of dense data arrays
@@ -27,7 +27,7 @@ With this handbook, you'll learn how:
 - Matplotlib includes capabilities for a flexible range of data visualizations
 - Scikit-learn helps you build efficient and clean Python implementations of the most important and established machine learning algorithms 
 
-Book on use of Python libs: *Python for Data Analysis, 2nd Edition*, Wes McKinney. ![o'reilly](https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
+Book on use of Python libs: *Python for Data Analysis, 2nd Edition*, Wes McKinney. (https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
 Content:
 - Use the IPython shell and Jupyter notebook for exploratory computing
 - Learn basic and advanced features in NumPy (Numerical Python)
