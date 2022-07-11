@@ -4,6 +4,10 @@ This repository contains material for the course [[course][IN-STK 5000]] "Adapti
 methods for data-based decision making", held at Oslo University in
 autumn 2022.
 
+**** Marie's lecture slides are here: 
+
+https://uio-my.sharepoint.com/:p:/g/personal/annemage_uio_no/EV63QfOQtmhPhaGXhMX8fbIBRf89f4wNgJ2-hI1VTJdgUQ?e=r3gm96
+
 ** Course Description
 
 *** Course content
