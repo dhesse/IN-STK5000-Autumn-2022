@@ -38,27 +38,40 @@ After taking the course, you will:
 - Be able to use large-scale data processing tools such as Tensor-Flow
 - Be able to deal with outliers, data contamination, etc.
 
-** Lectures
+** Topics (New version)
 
-*** Lecture 1 - Data-based decision making
+*** Part 1 - Data-Driven Decision Making
 
- - What is data-based decision making?
- - Why data-based decision making?
-   - Industry perspective
-     - What is digitalization?
-       - Some examples
-     - Why do we talk about digitalization now?
-   - Three vs of big data
- - Methods for data-based deciion making
-   - Machine learning
-   - Alternatives to machine learning
- - Limitations and challenges
-   - Model interpretability/explainability
-   - Privacy
-   - Fairness
-   - Scarcity or abundance of data
+- Motivation: Business cases
+- The case fore data-driven decision making in Industry
+- Things standing in the way
+  - Data availability and quality: See Part 2
+  - Trust in AI: See Part 3
+  - Organizational challenges
 
-** Topics
+*** Part 2 - Training ML Models
+
+- Tools: Python, Jupyter, Pandas, Sklearn
+- Data: Data quality, outliers etc
+  - Privacy
+- Reproducibility
+  - Pipelines
+  - Maybe: tools like airflow
+- On-line learning
+
+*** Part 3 - Interpreting ML Models
+
+- Model parameters, confidence intervals,
+- Interpretable models: Linear models, decision trees
+- Making models interpretable: Shapley values
+
+*** Part 4 - Issues with data-driven decision making
+
+- Biases
+- Fairness
+- Scarcity/abundance of data
+
+** Topics (Old version)
 
 *** Introduction
 
