@@ -1,31 +1,31 @@
 |-------+-------------+-------------------------------+------------|
 | Week  | Date        | Topic                         | Lecturer   |
 |-------+-------------+-------------------------------+------------|
-| 34    | We. 24. Aug | Introduction                  |            |
+| 34    | We. 24. Aug | ------------                  |            |
 |-------+-------------+-------------------------------+------------|
-| 35    | We. 31. Aug | Introduction                  |            |
+| 35    | We. 31. Aug | Introduction / Motivation     |    Marie        |
 |-------+-------------+-------------------------------+------------|
-| 36    | We. 07. Sep |                               |            |
+| 36    | We. 07. Sep | Introduction / Motivation     |    Dirk        |
 |-------+-------------+-------------------------------+------------|
-| 37    | We. 14. Sep |                               |            |
+| 37    | We. 14. Sep |  Basics: Correlations, Bootstrapping, Data quality, outliers...                             |     Marie       |
 |-------+-------------+-------------------------------+------------|
-| 38    | We. 21. Sep |                               |            |
+| 38    | We. 21. Sep |  Basics: Python, Jupyter, Pandas...                             |    Dirk     |
 |-------+-------------+-------------------------------+------------|
-| 39    | We. 28. Sep |                               |            |
+| 39    | We. 28. Sep |  Model Evaluation, Privacy + GDPR (guest lecture)                             | Marie |
 |-------+-------------+-------------------------------+------------|
-| 40    | We. 05. Oct |                               |            |
+| 40    | We. 05. Oct |  Privacy in practice  + Model Evaluation  | Dirk |
 |-------+-------------+-------------------------------+------------|
-| 41    | We. 12. Oct |                               |            |
+| 41    | We. 12. Oct |  Reproducability, Online-Learning                             | Marie |
 |-------+-------------+-------------------------------+------------|
-| 42    | We. 19. Oct |                               |            |
+| 42    | We. 19. Oct |  Reproducability, Scarcity & Abundance of Data | Dirk |
 |-------+-------------+-------------------------------+------------|
-| 43    | We. 26. Oct |                               |            |
+| 43    | We. 26. Oct |  Model parameters, confidence intervals, bootstrapping for model interpretation                             | Marie |
 |-------+-------------+-------------------------------+------------|
-| 44    | We. 02. Nov |                               |            |
+| 44    | We. 02. Nov |  Model parameters, confidence intervals, bootstrapping for model interpretation                             | Dirk |
 |-------+-------------+-------------------------------+------------|
-| 45    | We. 09. Nov |                               |            |
+| 45    | We. 09. Nov |  Making models interpretable: Shapley values                             | Marie |
 |-------+-------------+-------------------------------+------------|
-| 46    | We. 16. Nov |                               |            |
+| 46    | We. 16. Nov |  Interpretable models: Linear models, decision trees                             | Dirk |
 |-------+-------------+-------------------------------+------------|
 | 47    | We. 23. Nov |                               |            |
 |-------+-------------+-------------------------------+------------|
