@@ -60,11 +60,11 @@ After taking the course, you will:
   - Privacy, GDPR
   - Correlations etc.
   - Bootstrapping
+- Model evaluation, metrics, etc. (Marie/Dirk)
+  - Utility
 - Reproducibility (Marie/Dirk)
   - Pipelines
   - Maybe: tools like airflow, github actions etc.
-- Model evaluation, metrics, etc. (Marie/Dirk)
-  - Utility
 - On-line learning (Marie)
 - Scarcity/abundance of data (Dirk)
 
