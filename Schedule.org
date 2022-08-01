@@ -3,9 +3,9 @@
 |-------+-------------+-------------------------------+------------|
 | 34    | We. 24. Aug | ------------                  |            |
 |-------+-------------+-------------------------------+------------|
-| 35    | We. 31. Aug | Introduction / Motivation     |    Marie        |
+| 35    | We. 31. Aug | Introduction / Motivation     |    Dirk, (Roxana, Marie)        |
 |-------+-------------+-------------------------------+------------|
-| 36    | We. 07. Sep | Introduction / Motivation     |    Dirk        |
+| 36    | We. 07. Sep | Introduction / Motivation     |    Marie        |
 |-------+-------------+-------------------------------+------------|
 | 37    | We. 14. Sep |  Basics: Correlations, Bootstrapping, Data quality, outliers...                             |     Marie       |
 |-------+-------------+-------------------------------+------------|
