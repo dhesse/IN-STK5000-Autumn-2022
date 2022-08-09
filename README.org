@@ -42,112 +42,38 @@ After taking the course, you will:
 - Be able to use large-scale data processing tools such as Tensor-Flow
 - Be able to deal with outliers, data contamination, etc.
 
-** Topics (New version)
+** Topics
 
-*** Part 1 - Data-Driven Decision Making
+*** Part 1 - Data-Driven Decision Making (1-2 sessions)
 
-- Motivation: Business cases
-- The case fore data-driven decision making in Industry
-- Things standing in the way
+- Motivation: Business cases (Dirk, Maire)
+- The case fore data-driven decision making in Industry (Dirk)
+- Things standing in the way (Dirk)
   - Data availability and quality: See Part 2
   - Trust in AI: See Part 3
   - Organizational challenges
 
-*** Part 2 - Training ML Models
+*** Part 2 - Training and evaluating ML Models for decision making (approx. 5-6 sessions)
 
-- Tools: Python, Jupyter, Pandas, Sklearn
-- Data: Data quality, outliers etc
-  - Privacy
-- Reproducibility
+- Tools: Python, Jupyter, Pandas, Sklearn (Dirk)
+- Data: Data quality, outliers etc (Marie)
+  - Privacy, GDPR
+  - Correlations etc.
+  - Bootstrapping
+- Model evaluation, metrics, etc. (Marie/Dirk)
+  - Utility
+- Reproducibility (Marie/Dirk)
   - Pipelines
-  - Maybe: tools like airflow
-- On-line learning
+  - Maybe: tools like airflow, github actions etc.
+- On-line learning (Marie)
+- Scarcity/abundance of data (Dirk)
 
-*** Part 3 - Interpreting ML Models
+*** Part 3 - Interpreting ML Models (approx. 4 sessions)
 
-- Model parameters, confidence intervals,
-- Interpretable models: Linear models, decision trees
-- Making models interpretable: Shapley values
+- Model parameters, confidence intervals, bootstrapping for model interpretation (Marie/Dirk)
+- Interpretable models: Linear models, decision trees (Dirk)
+- Making models interpretable: Shapley values (Dirk/Marie)
 
-*** Part 4 - Issues with data-driven decision making
-
-- Biases
-- Fairness
-- Scarcity/abundance of data
-
-** Topics (Old version)
-
-*** Introduction
-
-*** Tools of the trade part 1 - Python, Jupyter, Pandas
-
-The aim here is merely to get everyone on the same page. ~1-2
-lectures.
-
-- Python - Data Science's favourite programming language
-- Jupyter - Notebooks
-- Pandas - Industry Standard Data Analysis
-
-*** Data and Data Quality
-
-With the use of the tools covered in the first part, we can now look
-at data and its properties and implications for data driven decision
-making. The project can now already start by looking at the data and
-its basic properties.
-
-**** Basics
-
-- Targets, what are we interested in?
-- Correlation
-
-**** Data collection
-
-- Caveats and challenges
-
-**** Privacy
-
-- Sensitive variables
-- GDPR
-- [ ] Should we cover everything including differential privacy here,
-  or do a later deep dive?
-
-**** Outliers, Data Contamination, Fraud Detection
-
-- Basic definitions, what is an outlier and how to identify them
-  - In particular, what makes estimating tails of a distribution hard?
-- Reasons for the presence or absence of outliers
-- Advanced methods for outlier detection
-  - Such as clustering + outlier detection, autoencoders
-  - Benford's Law, fraud detection
-
-
-*** Tools of the trade part 2 - Scikit-learn, Tensorflow
-
-- Scikit-learn - Industry Standard Machine Learning Package
-- Tensorflow - Accelerated Neural Networks and Bayesian Modeling
-
-
-*** Beyond Machine Learning - Decision Making
-
-- Confidence intervals, uncertainty
-- Bayesian models
-- Reliability and reproducibility
-- Multi-armed bandits (?)
-
-*** 'Big data' Tools: Apache Spark, Apache Airflow 
-
-- Why do we need specific tools for large data sets?
-  - What is a large data set?
-- How do those tools deal with large data sets?
-  - Example: Map Reduce
-- Apache Spark - Big Data Machine Learning
-- Apache Airflow - Model
-  
-*** Challenges
-
-- Model interpretability/explainability
-- Fairness
-- Scarcity or abundance of data
 
 
 #+LINK: course https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html
