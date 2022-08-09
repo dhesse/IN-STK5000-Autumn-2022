@@ -56,14 +56,42 @@ concepts. We will also work on communication and presentation.
 
 ---
 
-## Some remarks
+## Why Data-Driven Decision Making?
 
-- CS, Stats, Business - there's a lot to understand/work on
-  - It's also hard to teach: Give feedback!
-	- We can't read your mind!
-- The course *will be challenging*
-- Ask questions!
+- In traditional business models humans take most decisions
+- This doesn't *scale* well
+  - Making more decisions takes more employees, and costs more
+	- E.g. selling more loans
+	- Shipping more products
+- Business outcomes scale linearly in classical business models
+  - Often even worse-than-linear due to inefficiencies at scale
 
+---
+
+## Digital Business Models
+
+- In digital businesses, processes are highly automated
+- Digital agents can be duplicated at almost zero marginal cost
+- Decisions get better the more *data* is available
+- Thus, business outcomes scale *much* better than linearly.
+  - Ref. also *network* effects
+  
+---
+
+## Side Remark: Network Effects
+
+%%%
+
+- Digital Businesses perform better the more *data* they have
+- This generates positively reinforcing dynamics
+  - The more customers, the better the customer experience
+	- The better the customer experience, the more customers
+- Social networks obey a similar dynamic
+  - The more users are on in the more attractive they become
+  
+%%%
+
+<img src="img/Competing.jpeg" style="width: 20vw"/>
 
 ---
 
@@ -136,8 +164,8 @@ kinds of classification errors we can make.
 
 ## An Example (cont.)
 
-However, a false positive doesn't usually come at the same cost as a
-false negative. Think of
+A false positive does often not come at the same cost as a
+false negative, e.g.
 
 - Tests for disease (e.g. Covid rapid tests)
 - Tests for more serious disease such as hepatitis
@@ -153,6 +181,16 @@ Part of a business case could be
 - How many people will we falsely imprison?
 
 These considerations are part of a **business case**.
+
+---
+
+### How We Teach the Business Side:
+
+# The Projects!
+
+- Take them seriously!
+- Don't just seen them as a data exercise!
+  - Really think about the underlying business case.
 
 ---
 
@@ -208,3 +246,15 @@ lectures
 %%%
 
 <img src="img/1200px-Jupyter_logo.png" style="width: 20vw"/>
+
+---
+
+## Some remarks
+
+- CS, Stats, Business - there's a lot to understand/work on
+  - It's also hard to teach: Give feedback!
+	- We can't read your mind!
+- The course *will be challenging*
+- Ask questions!
+
+
