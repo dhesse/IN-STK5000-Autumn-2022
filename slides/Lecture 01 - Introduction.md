@@ -30,6 +30,8 @@
 
 - Anne-Marie George
 - Dirk Hesse
+  - VP Technology Management at Equinor
+  - Adjunct Associate Professor at UiO
 
 ## Teaching Assistant
 
@@ -48,7 +50,10 @@
   
 This course deals with the **interfaces of and overlaps** between
 computer science, statistics, and business (decision making)
-concepts. We will also work on communication and presentation.
+concepts. How does one, using statistical methods and CS concepts,
+take sound business decisions?
+
+We will also work on communication and presentation.
 
 %%%
 
@@ -56,7 +61,43 @@ concepts. We will also work on communication and presentation.
 
 ---
 
+## The Importance of Presentation Skills
+
+%%%
+
+- Data Science is by definition a multidisciplinary activity
+- Key to your success will be to communicate difficult concepts
+  clearly to people with diverse backgrounds
+  
+%%%
+
+<img src="img/presentation.jpeg" style="width: 40vw">
+
+---
+
+## Trust in AI
+
+%%%
+
+- Lack of trust in machine learning methods stands in the way of broad
+  adoption
+- Good communication skills help you to build trust
+- Some of the methods discussed in the lectures address this
+  - Fairness
+  - Privacy
+  - Reproducibility
+  - Explainability
+  
+  
+%%%
+
+<img src="img/mining_rig.jpeg" style="width: 20vw">
+
+---
+
 ## Why Data-Driven Decision Making?
+
+%%%
 
 - In traditional business models humans take most decisions
 - This doesn't *scale* well
@@ -66,16 +107,27 @@ concepts. We will also work on communication and presentation.
 - Business outcomes scale linearly in classical business models
   - Often even worse-than-linear due to inefficiencies at scale
 
+%%%
+
+<img src="img/business-scaling.png" style="width: 40vw"/>
+
 ---
 
 ## Digital Business Models
+
+%%%
 
 - In digital businesses, processes are highly automated
 - Digital agents can be duplicated at almost zero marginal cost
 - Decisions get better the more *data* is available
 - Thus, business outcomes scale *much* better than linearly.
   - Ref. also *network* effects
-  
+
+%%%
+
+<img src="img/digital-scaling.png" style="width: 40vw"/>
+
+
 ---
 
 ## Side Remark: Network Effects
@@ -83,6 +135,7 @@ concepts. We will also work on communication and presentation.
 %%%
 
 - Digital Businesses perform better the more *data* they have
+  - More data leads to better models, which lead to better decisions
 - This generates positively reinforcing dynamics
   - The more customers, the better the customer experience
 	- The better the customer experience, the more customers
