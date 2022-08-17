@@ -12,9 +12,9 @@
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
 |   38 | We. 21. Sep  | Creating and evaluating models, data wrangling, exploratory data analysis      | Dirk                     | Roxana                        |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
-|   39 | We. 28. Sep  | Model Evaluation, Privacy + GDPR                                               | Marie                    | GDPR (guest lecture)          |
+|   39 | We. 28. Sep  | Model Evaluation, Privacy + GDPR                                               | Marie                    | GDPR (guest lecture by Chinmayi Prabhu)          |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
-|   40 | We. 05. Oct  | Privacy in practice  + Model Evaluation                                        | Dirk                     | GDPR (guest lecture)          |
+|   40 | We. 05. Oct  | Privacy in practice  + Model Evaluation                                        | Dirk                     | Roxana         |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
 |   41 | We. 12. Oct  | Reproducability, Online-Learning                                               | Marie                    | Roxana                        |
 | ---- | -----------  | 1st PROJECT SUBMISSION, 2nd PROJECT PUBLISHED                                  |                          |                               |
