@@ -237,7 +237,23 @@ These considerations are part of a **business case**.
 
 ---
 
-### How We Teach the Business Side:
+## A Word About Metrics and KPIs
+
+- Projects in business are usually followed up by *metrics*
+  - Metrics quantify certain aspects of the success of a project
+- Key metrics that track overall success are called *Key Performance
+  Indicators* (KPIs)
+  - Good KPIs are directly linked to value creation
+- Ideally one tracks the outcome of data-driven decision making with a
+  KPI
+  - Related concept: Reward functions and utility (from reinforcement
+    learning)
+  - WARNING: Utility functions usually don't make for very good KPIs
+  - They track mostly only part of the overall outcome
+
+---
+
+### How We Cover the Business Side:
 
 # The Projects!
 
