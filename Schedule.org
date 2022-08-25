@@ -25,7 +25,7 @@
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
 |   44 | We. 02. Nov  | Model parameters, confidence intervals, bootstrapping for model interpretation | Dirk                     | Roxana                        |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
-|   45 | We. 09. Nov  | Making models interpretable: Shapley values                                    | Marie                    | Roxana                        |
+|   45 | We. 09. Nov  | Making models interpretable: Shapley values                                    | Marie                    | Hugo                          |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
 |   46 | We. 16. Nov  | Interpretable models: Linear models, decision trees                            | Dirk                     | Roxana                        |
 | ---- | -----------  | 2nd PROJECT SUBMISSION                                                         |                          |                               |
