@@ -16,16 +16,16 @@
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
 |   40 | We. 05. Oct  | Privacy in practice  + Model Evaluation                                        | Dirk                     | Roxana         |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
-|   41 | We. 12. Oct  | Reproducability, Online-Learning                                               | Marie                    | Roxana                        |
+|   41 | We. 12. Oct  | Reproducability, Scarcity & Abundance of Data                                  | Dirk                     | Roxana                        |
 | ---- | -----------  | 1st PROJECT SUBMISSION, 2nd PROJECT PUBLISHED                                  |                          |                               |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
-|   42 | We. 19. Oct  | Reproducability, Scarcity & Abundance of Data                                  | Dirk                     | Roxana                        |
+|   42 | We. 19. Oct  | Reproducability, Online-Learning                                               | Marie                    | Roxana                        |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
 |   43 | We. 26. Oct  | Model parameters, confidence intervals, bootstrapping for model interpretation | Marie                    | Roxana                        |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
 |   44 | We. 02. Nov  | Model parameters, confidence intervals, bootstrapping for model interpretation | Dirk                     | Roxana                        |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
-|   45 | We. 09. Nov  | Making models interpretable: Shapley values                                    | Marie                    | Roxana                        |
+|   45 | We. 09. Nov  | Making models interpretable: Shapley values                                    | Marie                    | Hugo                          |
 |------+--------------+--------------------------------------------------------------------------------+--------------------------+-------------------------------|
 |   46 | We. 16. Nov  | Interpretable models: Linear models, decision trees                            | Dirk                     | Roxana                        |
 | ---- | -----------  | 2nd PROJECT SUBMISSION                                                         |                          |                               |
