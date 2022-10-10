@@ -30,7 +30,7 @@ is normal distributed.
 
 Reminder: If $Z_i, i = 1,\ldots,k$ are normal distributed, then
 
-$$Y = \sum_i X_i$$
+$$Y = \sum_i X_i^2$$
 
 is $\chi^2$ distributed.
 
