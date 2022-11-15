@@ -1,6 +1,6 @@
 # Lecture 12
 
-## Interpretability and Explainability
+## Interpretability, Explainability, and Fairness
 
 ---
 
@@ -73,3 +73,44 @@ $$\phi_j(v) = \sum_{S\subset \{1,\ldots,p\}\setminus\{j\}}
   * Some exact for specific model classes
   * Some approximate
 * Only explanation method with solid theory
+
+
+---
+
+# Fairness - how to measure?
+
+* Regression case
+
+$$fairness = \left| \frac 1 {|Z_1|} \sum_{i \in Z_1}\hat y_i - 
+\frac 1 {|Z_2|} \sum_{i \in Z_2}\hat y_i\right|$$
+
+* Classification case
+
+$$fou = \operatorname{min}\left( 
+\frac{P(\hat y = 1| z=1)}{P(\hat y = 1| z=0)},
+\frac{P(\hat y = 0| z=1)}{P(\hat y = 0| z=0)}\right)$$
+
+$$fop = \operatorname{min}\left( 
+\frac{P(\hat y = 1| z=1, y=1)}{P(\hat y = 1| z=0, y=1)},
+\frac{P(\hat y = 0| z=1, y=0)}{P(\hat y = 0| z=0, y=0)}\right)$$
+
+---
+
+# Fairness - what to do about it?
+
+* Pre-processing
+  * Remove sensitive variable (still implicit bias possible)
+  * Project out sensitive variable (Gram-Schmidt, similar to PCA)
+* At training time: Model constraints
+  * $\underset \theta {\operatorname{argmin}} L(y, f_\theta(x)) +
+    \operatorname{fairness}(f_\theta)$
+* At prediction time
+  * E.g. through different prediction thresholds in classification
+
+---
+
+
+
+# Evaluate the practical sessions
+
+![](img/qr_eval.png)
