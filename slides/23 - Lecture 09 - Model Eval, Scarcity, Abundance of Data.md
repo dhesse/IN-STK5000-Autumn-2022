@@ -17,10 +17,13 @@
 ## Where do the uncertainties come from?
 
 - Data
-    - Noise
-    - Bias
+    - Variance (from small data sets)
+    - Bias (often also from small data sets)
+    - But, remember the $\sqrt{N}$ law!
 - Model
     - Inability to capture the nature of the data (i.e. non-linear data)
+- Modeling process
+    - E.g. choice of train, test, and *validation* sets
 
 ---
 
@@ -37,9 +40,26 @@
 
 ---
 
+# Scarcity and Abundance of Data
+
+---
+
+## Compute Availability
+
+- Historically, expensive on-premise hardware was required
+- High capital expenditure (CAPEX), high operating expenditure (OPEX)
+    - Difficult to make a case to invest
+- Now: Cloud services available
+
+![](img/ec2-pricing.png)
+
+---
+
 ## Scarcity of data
 
 - High potential for bias
+- Often limited model performance
+- High variance
 - Makes things like leave-one-out CV feasible
 
 ---
